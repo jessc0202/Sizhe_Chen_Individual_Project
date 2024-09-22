@@ -34,6 +34,7 @@ This is my first individual project for the IDS 706:
 ├── summary_statistics.md
 ├── test_lib.py
 └── test_main.py
+```
 
 # **Project Overview**
 This project uses the **Students Performance Factors** dataset from Kaggle, which contains information about factors that can influence student grades. The primary goal of the project is to analyze this dataset by generating descriptive statistics and visualizations to better understand how various factors, such as **hours studied**, affect students' performance.
