@@ -7,23 +7,23 @@
 This is my first individual project for the IDS 706:
 # **Directory Tree Structure**
 ```text
+├── .devcontainer
+│   ├── Dockerfile
+│   └── devcontainer.json
+├── .github
+│   └── workflows
+│       ├── format.yml
+│       ├── install.yml
+│       ├── lint.yml
+│       └── test.yml
+├── .gitignore
 ├── Dockerfile
-├── Figure_1.png
-├── Figure_2.png
-├── Figure_3.png
 ├── LICENSE
 ├── Makefile
 ├── README.md
 ├── StudentPerformanceFactors.csv
-├── __pycache__
-│   ├── main.cpython-312.pyc
-│   ├── test_lib.cpython-312-pytest-8.3.3.pyc
-│   └── test_main.cpython-312-pytest-8.3.3.pyc
-├── directory_structure.txt
 ├── main.ipynb
 ├── main.py
-├── make_lint.png
-├── make_test.png
 ├── mylib
 │   ├── __pycache__
 │   │   └── lib.cpython-312.pyc
