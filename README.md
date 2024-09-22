@@ -6,6 +6,7 @@
 
 This is my first individual project for the IDS 706:
 # **Directory Tree Structure**
+.
 ├── Dockerfile
 ├── Figure_1.png
 ├── Figure_2.png
@@ -18,8 +19,11 @@ This is my first individual project for the IDS 706:
 │   ├── main.cpython-312.pyc
 │   ├── test_lib.cpython-312-pytest-8.3.3.pyc
 │   └── test_main.cpython-312-pytest-8.3.3.pyc
+├── directory_structure.txt
 ├── main.ipynb
 ├── main.py
+├── make_lint.png
+├── make_test.png
 ├── mylib
 │   ├── __pycache__
 │   │   └── lib.cpython-312.pyc
@@ -44,13 +48,6 @@ The purpose of this project is to **automate the generation of descriptive stati
 
 2. **Statistical Summaries**:
    The `general_describe` function computes and returns **descriptive statistics** for any specified column in the dataset. This includes commonly used measures such as **mean**, **median**, **minimum**, and **maximum** values, providing a high-level overview of the distribution.
-
-# **General Overview**
-
-![alt text](summary_statistics.png)
-
-# **Hours Studied Overview**
-![alt text](summary_Hours_Studied.png)
 
 3. **Visualizations**: I mainly focus on the studied hours students made and their exam scores.
 

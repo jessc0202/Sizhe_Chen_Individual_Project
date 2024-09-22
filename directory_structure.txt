@@ -1,0 +1,30 @@
+.
+├── Dockerfile
+├── Figure_1.png
+├── Figure_2.png
+├── Figure_3.png
+├── LICENSE
+├── Makefile
+├── README.md
+├── StudentPerformanceFactors.csv
+├── __pycache__
+│   ├── main.cpython-312.pyc
+│   ├── test_lib.cpython-312-pytest-8.3.3.pyc
+│   └── test_main.cpython-312-pytest-8.3.3.pyc
+├── directory_structure.txt
+├── main.ipynb
+├── main.py
+├── make_lint.png
+├── make_test.png
+├── mylib
+│   ├── __pycache__
+│   │   └── lib.cpython-312.pyc
+│   └── lib.py
+├── repeat.sh
+├── requirements.txt
+├── setup.sh
+├── summary_statistics.md
+├── test_lib.py
+└── test_main.py
+
+4 directories, 24 files
