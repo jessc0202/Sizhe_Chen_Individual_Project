@@ -5,8 +5,10 @@
 
 
 This is my first individual project for the IDS 706:
-# **Youtube link**
-[![Youtube Link](https://www.youtube.com/watch?v=aiQGPIljshA)]
+
+# **YouTube Link**
+[YouTube Video](https://www.youtube.com/watch?v=aiQGPIljshA)
+
 
 # **Directory Tree Structure**
 ```text
