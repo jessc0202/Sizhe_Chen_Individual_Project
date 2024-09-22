@@ -7,7 +7,7 @@
 This is my first individual project for the IDS 706:
 
 # **YouTube Link**
-[YouTube Video](https://www.youtube.com/watch?v=aiQGPIljshA)
+[YouTube Video](https://youtu.be/Dx6wBKEs2Q0)
 
 
 # **Directory Tree Structure**

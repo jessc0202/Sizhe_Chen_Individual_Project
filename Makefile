@@ -25,7 +25,7 @@ deploy:
 all: install lint test format deploy
 
 generate_and_push:
-	# Create the markdown file (assuming it's generated from the plot)
+	# Create the markdown file 
 	python test_main.py 
 
 	# Add, commit, and push the generated files to GitHub

@@ -19,7 +19,7 @@ def general_describe(dataframe, column_name):
     return dataframe[column_name].describe()
 
 
-def generate_vis(dataframe, x_col, y_col, show=True):
+def generate_vis(dataframe, x_col, y_col, show=False):
     """
     Generate a scatter plot for two variables to visualize their relationship.
 
@@ -35,7 +35,7 @@ def generate_vis(dataframe, x_col, y_col, show=True):
         plt.show()
 
 
-def generate_dist(dataframe, column_name, show=True):
+def generate_dist(dataframe, column_name, show=False):
     """
     Generate a histogram to visualize the distribution of a variable.
 
@@ -51,7 +51,7 @@ def generate_dist(dataframe, column_name, show=True):
         plt.show()
 
 
-def visualize_boxplot(dataframe, column_name, show=True):
+def visualize_boxplot(dataframe, column_name, show=False):
     """
     Generate a boxplot to summarize the distribution of a variable.
 
